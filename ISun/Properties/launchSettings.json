@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ISun": {
+      "commandName": "Project",
+      "commandLineArgs": "--cities Vilnius"
+    }
+  }
+}
